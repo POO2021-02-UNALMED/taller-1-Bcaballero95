@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Mi nombre es Bryan David Caballero Fernández, tengo 26 años y mis aspiraciones con esta materia es aprender el paradigma de programación orientada a objetos y ser capaz de usar estos conocimientos en futuros proyectos.
-=======
-La carpeta archivos no pudo ser subida en un comienzo porque estaba vacía 
->>>>>>> 1beb6acdffc9347d885fca3cabe6a2061df6e840
+
+Es importante tener cuidado al modificar dos archivos al ismo tiempo porque se pueden generar inconsitencias en ambas versiones
