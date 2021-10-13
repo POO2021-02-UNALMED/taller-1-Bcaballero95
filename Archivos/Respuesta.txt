@@ -1,0 +1,1 @@
+Al crear la carpeta archivos esta no apareció en la interfaz de Github Desktop 
